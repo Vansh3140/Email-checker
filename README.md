@@ -19,7 +19,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Vansh3140/Email-checker.git
-   cd email-checker
+   cd Email-checker
    ```
 
 2. Initialize the Go module:
@@ -34,7 +34,7 @@
 
 4. Run the program:
    ```bash
-   ./email-checker
+   ./Email-checker
    ```
 
 ## Usage
